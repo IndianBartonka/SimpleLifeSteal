@@ -1,0 +1,38 @@
+#------------------------------------------------------------------------
+# 				PvpPoints plugin
+#					By: Indian Bartonka
+#				Support: https://discord.gg/aq6NaXsy2k
+#               § for colors
+#-------------------------------------------------------------------------
+#
+#Start points (x2)
+start-health: 10
+#Points
+minus-points: 10
+plus-points: 10
+#Heart settings
+heartdrop: false
+#Messages
+No-health: "§cYou dont have more hearts"
+heart-use: "§a+1 §4Heart"
+non-perms: "§cYou don't have permisions"
+player-null: "§cThere is no such player on the server"
+heart-grab: "§aYou take one heart from yourself and put it in your inventory"
+#LeaderBoard
+lb-size: 10
+header: "§8-------§6Top Hearts§8------"
+gui-name: "Tops"
+item-name: "§bTop hearts count"
+Num-color: "§b"
+Player-color: "§6"
+health-color: "§a"
+footer: "§8-----------------"
+
+
+
+
+
+
+
+
+

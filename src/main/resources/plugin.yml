@@ -1,0 +1,17 @@
+name: SimpleLifeSteal
+version: '${project.version}'
+main: me.indian.pl.Main
+api-version: 1.19
+authors: [ IndianPL ]
+softdepend: [PlaceholderAPI]
+commands:
+  slfr:
+    description: reload command
+  ls:
+    description: leader board
+  heart:
+    description:
+  addheart:
+    description:
+
+
